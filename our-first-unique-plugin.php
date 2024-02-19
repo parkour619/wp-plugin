@@ -162,4 +162,3 @@ class WordCountAndTimePlugin {
 $wordCountAndTimePlugin = new WordCountAndTimePlugin;
 
 
-the tezt
