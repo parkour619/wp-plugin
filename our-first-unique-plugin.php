@@ -160,8 +160,9 @@ class WordCountAndTimePlugin {
 
 // Create a new instance of the WordCountAndTimePlugin.
 $wordCountAndTimePlugin = new WordCountAndTimePlugin;
+jkj
 
 
-
+jghj
 
 
