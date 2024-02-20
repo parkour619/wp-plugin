@@ -10,6 +10,10 @@
   Domain Path: /languages
 */
 
+    if (!defined('ABSPATH')){
+        exit;
+    }
+
 class WordCountAndTimePlugin {
     function __construct() {
         // Add action to create admin page
